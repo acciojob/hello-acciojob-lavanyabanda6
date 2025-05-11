@@ -1,2 +1,13 @@
 
 /* Your CSS Code here. */
+body{
+	.main{
+		width:150px;
+		height:150px;
+	}
+	.p{
+		color:#ffffff;
+		left-margin:32px;
+		padding:10px;
+	}
+}
