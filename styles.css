@@ -1,13 +1,12 @@
 
 /* Your CSS Code here. */
-body{
-	.main{
+
+	main.accio{
 		width:150px;
 		height:150px;
 	}
-	.p{
+	.hello-accio{
 		color:#ffffff;
 		left-margin:32px;
 		padding:10px;
 	}
-}
